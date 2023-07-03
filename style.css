@@ -964,13 +964,6 @@ textarea::placeholder {
 @media (max-width: 620px) {
   .header__menu__burger {
     background-color: black;
-  }
- 
+  } 
 }
- /* ======== */
- @media (max-width: 390px) {
-  .container { 
-    width: 390px;
-  }
-}
-/* ========= */
+
