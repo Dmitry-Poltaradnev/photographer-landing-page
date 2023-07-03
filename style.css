@@ -965,12 +965,12 @@ textarea::placeholder {
   .header__menu__burger {
     background-color: black;
   }
-  /* ======== */
-  @media (max-width: 390px) {
-    .container { 
-      width: 390px;
-      margin: 0 auto;
-    }
-  }
-  /* ========= */
+ 
 }
+ /* ======== */
+ @media (max-width: 390px) {
+  .container { 
+    width: 390px;
+  }
+}
+/* ========= */
