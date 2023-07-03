@@ -961,8 +961,16 @@ textarea::placeholder {
     background-color: #9d8665;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 620px) {
   .header__menu__burger {
     background-color: black;
   }
+  /* ======== */
+  @media (max-width: 390px) {
+    .container { 
+      width: 390px;
+      margin: 0 auto;
+    }
+  }
+  /* ========= */
 }
